@@ -8,7 +8,7 @@ export default class About extends Component {
           <h1>About Us</h1>
 
           <p>
-            Thanks toa for checking this out. This project was created by
+            Thanks for checking this out. This project was created by
             <a href="https://twitter.com/yunjun_mu" target="_blank"> @yunjun_mu</a>,
             as a playground to learn and experiment some of the exciting technologies such as
             <a href="https://github.com/facebook/react" target="_blank"> React</a> and
